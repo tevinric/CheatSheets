@@ -1,5 +1,5 @@
 -- Create an environment using terminal
-1. CD to location where you want the env to be installed 
-2. run command python3 -m venv <env_name> 
-3. once in the folder that hosts the application with the env in it run : 
-  source <env_name>/bin/activate
+    1. CD to location where you want the env to be installed 
+    2. run command python3 -m venv <env_name> 
+    3. once in the folder that hosts the application with the env in it run : 
+      source <env_name>/bin/activate
