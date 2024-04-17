@@ -3,3 +3,8 @@
     2. run command python3 -m venv <env_name> 
     3. once in the folder that hosts the application with the env in it run : 
       source <env_name>/bin/activate
+
+
+-- Running the requirements.txt file:
+    1. Run the follwoing command once you have activated your desired environment
+    pip install -r requirements.txt
